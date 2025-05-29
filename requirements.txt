@@ -1,0 +1,9 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+transformers
+torch
+gradio
+scikit-learn
+pickle-mixin 
